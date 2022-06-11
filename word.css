@@ -1,0 +1,85 @@
+html{
+    height: 80%;
+    width:100%;
+}
+.container{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+}
+.menu{
+    background-color: bisque;
+    height: 100%;
+    width: 100%;
+}
+body{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    color: black;
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: 40px;}
+
+    nav{
+        color: white;
+        background-color: red;
+        width: 80%;
+        margin-left: 50px;
+        
+    }
+    nav ,ul{margin-top: 20px;}
+    
+
+    nav li{
+        display: inline;
+        margin-right:45px;
+        font-size: 30px;
+        padding-left: 50px;
+    }
+    article{
+        width: 100%;
+        
+    }
+    figure{
+        
+        width:245px;
+        height: 245px;
+        margin-left: 50px;
+        float: left;
+        padding-bottom: 20px;
+        
+    }
+    h2{
+        font-size: 25px;
+        padding-top: 10px;
+        
+        
+    }
+.color{
+    color: red;
+}
+
+figcaption{padding-top: 20px;
+font-size: 25px;}
+.font{
+    font-size: 15px;
+}
+.padding{
+    padding-top: 8px;
+}
+.vic{
+    color: red;
+    font-size: 15px;
+    
+    padding-top: -20px;
+
+    
+}
+hr{
+    background-color:white;
+    width: 400%;
+    margin-top: -10px;
+    
+}
